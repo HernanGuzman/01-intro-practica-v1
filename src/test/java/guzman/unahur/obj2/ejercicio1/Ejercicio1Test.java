@@ -1,4 +1,4 @@
-package ar.edu.unahur.obj2.ejercicio1;
+package guzman.unahur.obj2.ejercicio1;
 
 import org.testng.annotations.Test;
 
